@@ -1,7 +1,63 @@
-p.serif {
-  font-family: "Times New Roman", Times, serif;
+p.papyrus {
+  font-family: 'Brush Script MT', cursive;
 }
 
-p.sansserif {
-  font-family: Arial, Helvetica, sans-serif;
+p.copperplate {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+p.arial {
+  font-family: Arial, sans-serif;
+}
+
+p.aboreto {
+  font-family: 'Aboreto';font-size: 22px;
+}
+
+p.aclonica {
+  font-family: 'Aclonica';font-size: 22px;
+}
+
+p.agdasima {
+font-family: 'Agdasima';font-size: 22px;
+}
+
+p.akronim {
+font-family: 'Akronim';font-size: 22px;
+}
+
+p.amaticsc {
+  font-family: 'Amatic SC';font-size: 22px;
+}
+
+p.annie{
+  font-family: 'Annie Use Your Telescope';font-size: 22px;
+}
+
+p.arbutus {
+font-family: 'Arbutus';font-size: 22px;
+}
+
+p.areyouserious {
+font-family: 'Are You Serious';font-size: 22px;
+}
+
+p.arizonia {
+font-family: 'Atma';font-size: 22px;
+}
+
+p.ballet {
+font-family: 'Ballet';font-size: 22px;
+}
+
+p.bangers {
+font-family: 'BhuTuka Expanded One';font-size: 22px;
+}
+
+p.bhutuka {
+font-family: 'Birthstone Bounce';font-size: 22px;
+}
+
+p.birthstone {
+font-family: 'Barrio';font-size: 22px;
 }
